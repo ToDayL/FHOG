@@ -38,8 +38,9 @@ WARNING: ```include/fhog1.hpp``` and ```src/fhog2.cpp``` are original FHOG used 
 According to our test, our implementation is about 26% faster than original work(fixed size);
 
 Time Consumptioin:
-| Original | New |
-|-|-|
-| 4.96s | 3.66s |
+
+| Original |  New  |
+|----------|-------|
+| 4.96s    | 3.66s |
 
 \* Test Condition: 640x512 Gray Image, 500 times
